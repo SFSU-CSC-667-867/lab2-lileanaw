@@ -10,7 +10,7 @@
 - Add 2 more custom routes
 - Add a route with a custom query parameter
 - Install pm2 with `npm i pm2 -g`
-- Now run your app using pm2 by createing a process json file
+- Now run your app using pm2 by creating a process json file
     - http://pm2.keymetrics.io/docs/usage/application-declaration/
     - `pm2 start <filename>`
 - Create a second express app with a single enpoint that returns "hello world", or some other data of your choice
